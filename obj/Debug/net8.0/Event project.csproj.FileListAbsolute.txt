@@ -1,0 +1,37 @@
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Event project.exe
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Event project.deps.json
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Event project.runtimeconfig.json
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Event project.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Event project.pdb
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\Desktop\Event project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event pr.0758CC14.Up2Date
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.dll
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\refint\Event project.dll
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.pdb
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\Event project.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Event project\obj\Debug\net8.0\ref\Event project.dll
